@@ -1,0 +1,7 @@
+介绍下采样
+
+一、VoxelGrid体素滤波的过程实现
+https://blog.csdn.net/qq_36686437/article/details/108890351
+
+二、Python实现点云体素下采样（Voxel Filter）
+https://blog.csdn.net/qinlele1994/article/details/106140805
